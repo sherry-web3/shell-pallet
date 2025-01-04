@@ -1,9 +1,0 @@
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libsp_application_crypto-da8b90ffbe281dd4.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ecdsa.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ed25519.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/sr25519.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/traits.rs
-
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/sp_application_crypto-da8b90ffbe281dd4.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ecdsa.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ed25519.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/sr25519.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/traits.rs
-
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/lib.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ecdsa.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/ed25519.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/sr25519.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-application-crypto-38.0.0/src/traits.rs:

@@ -1,9 +1,0 @@
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libparity_bip39-527d4b99a9c29e22.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/internal_macros.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/mod.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/english.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/pbkdf2.rs
-
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/parity_bip39-527d4b99a9c29e22.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/internal_macros.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/mod.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/english.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/pbkdf2.rs
-
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/lib.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/internal_macros.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/mod.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/language/english.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parity-bip39-2.0.1/src/pbkdf2.rs:

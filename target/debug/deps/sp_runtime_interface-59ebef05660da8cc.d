@@ -1,9 +1,0 @@
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libsp_runtime_interface-59ebef05660da8cc.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/host.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/impls.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/pass_by.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/util.rs
-
-/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/sp_runtime_interface-59ebef05660da8cc.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/host.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/impls.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/pass_by.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/util.rs
-
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/lib.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/host.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/impls.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/pass_by.rs:
-/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sp-runtime-interface-28.0.0/src/util.rs:
