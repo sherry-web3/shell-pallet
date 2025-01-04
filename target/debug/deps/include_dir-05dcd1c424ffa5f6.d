@@ -1,0 +1,11 @@
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libinclude_dir-05dcd1c424ffa5f6.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir_entry.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/file.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/../README.md
+
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libinclude_dir-05dcd1c424ffa5f6.rlib: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir_entry.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/file.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/../README.md
+
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/include_dir-05dcd1c424ffa5f6.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir_entry.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/file.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/../README.md
+
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/lib.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/dir_entry.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/file.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/include_dir-0.7.4/src/../README.md:

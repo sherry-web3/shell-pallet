@@ -1,0 +1,13 @@
+[package]
+name = "shell-pallet"
+version = "0.1.0"
+authors.workspace = true
+edition.workspace = true
+repository.workspace = true
+license.workspace = true
+
+[dependencies]
+frame-support = "38.2.0"
+frame-system = "38.0.0"
+parity-scale-codec = "=3.6.12"
+scale-info = "2.11.6"

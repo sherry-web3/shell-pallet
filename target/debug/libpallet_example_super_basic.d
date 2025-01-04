@@ -1,0 +1,1 @@
+/Users/plutus/Desktop/Blockchain/standalone\ pallets/basic-pallet/target/debug/libpallet_example_super_basic.rlib: /Users/plutus/Desktop/Blockchain/standalone\ pallets/basic-pallet/super-basic-pallet/src/lib.rs

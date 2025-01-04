@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS Trash files
+.Trashes
+*.swp
+*.swo
+*~ 
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Build directories
+/build/
+/dist/
+/out/
+/target/  # For Rust, Maven, or similar projects
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/

@@ -1,0 +1,10 @@
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libminiz_oxide-09e5e851615ed827.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs
+
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/miniz_oxide-09e5e851615ed827.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs
+
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/lib.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/mod.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/core.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/output_buffer.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/inflate/stream.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.8.2/src/shared.rs:

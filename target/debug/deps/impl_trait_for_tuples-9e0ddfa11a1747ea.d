@@ -1,0 +1,8 @@
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libimpl_trait_for_tuples-9e0ddfa11a1747ea.dylib: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/full_automatic.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/semi_automatic.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/utils.rs
+
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/impl_trait_for_tuples-9e0ddfa11a1747ea.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/full_automatic.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/semi_automatic.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/utils.rs
+
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/lib.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/full_automatic.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/semi_automatic.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/impl-trait-for-tuples-0.2.3/src/utils.rs:

@@ -1,0 +1,10 @@
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/libgetrandom-39c76620634c3c48.rmeta: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/plutus/Desktop/Blockchain/standalone pallets/basic-pallet/target/debug/deps/getrandom-39c76620634c3c48.d: /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs /Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs:
+/Users/plutus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs:
